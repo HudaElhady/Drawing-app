@@ -28,6 +28,10 @@
 	<array>
 		<string>armv7</string>
 	</array>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Drawing app wants to save photo in your photo library</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Drawing App Needs to access your photos</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
