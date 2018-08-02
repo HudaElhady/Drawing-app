@@ -103,7 +103,7 @@
                                         </connections>
                                     </button>
                                 </subviews>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.0" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstItem="Zja-uY-JbU" firstAttribute="width" secondItem="DgY-rL-7jl" secondAttribute="width" id="31x-RD-OBZ"/>
                                     <constraint firstItem="s4K-ts-jgi" firstAttribute="leading" secondItem="AgX-Xw-H67" secondAttribute="trailing" constant="1" id="4Wo-cv-v2e"/>
@@ -211,6 +211,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="erase-icon" width="16" height="16"/>
+        <image name="erase-icon" width="256" height="256"/>
     </resources>
 </document>
